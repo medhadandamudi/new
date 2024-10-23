@@ -7,7 +7,7 @@ import pandas as pd
 from Login import email
 
 
-st.logo("jll.png")
+#st.logo("jll.png")
 
 
 st.title("Workfront Form Intake")
