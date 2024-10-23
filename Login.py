@@ -11,7 +11,7 @@ import pandas as pd
 st.set_page_config(page_title="JLL Workfront", layout="wide")
 float_init()
 
-st.logo("jll.png")
+#st.logo("jll.png")
 
 st.markdown(
         """
